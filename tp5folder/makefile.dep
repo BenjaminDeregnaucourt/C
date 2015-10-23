@@ -1,0 +1,2 @@
+main.o: main.c tp5.h
+traiter.o: traiter.c
